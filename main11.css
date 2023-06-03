@@ -1,0 +1,12 @@
+button {
+    padding: 10px 20px;
+    background-color: #a02a2a;
+    border: none;
+    cursor: pointer;
+  }
+  
+  #randomImage {
+    width: 300px;
+    height: 200px;
+  }
+  
